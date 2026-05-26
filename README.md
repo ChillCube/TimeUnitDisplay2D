@@ -27,3 +27,8 @@ remove-gd-addon TimeUnitDisplay2D
 ```bash
 push-all-addons
 ```
+
+## Dependencies
+
+- [NumberDisplay](https://github.com/ChillCube/NumberDisplay)
+- [Clock](https://github.com/ChillCube/Clock)
